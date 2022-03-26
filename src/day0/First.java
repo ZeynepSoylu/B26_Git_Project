@@ -7,9 +7,4 @@ public class First {
         System.out.println("java");
         System.out.println("Working... ");
     }
-
-
-    // extrac  line 1
-    // extra line 2
-    // extra 3
 }
